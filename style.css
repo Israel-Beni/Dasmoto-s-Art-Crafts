@@ -1,0 +1,35 @@
+h1 {
+    background-image: url("images/pattern.jpeg");
+    color: #F0E68C;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#brushes, #frames, #paint {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#brushes {
+    background-color: #00FA9A;
+}
+
+#frames {
+    background-color: #F08080;
+}
+
+#paint {
+    background-color: #87CEEB;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+    font-weight: bold;
+}
+
+body {
+    font-family: Helvetica;
+}
